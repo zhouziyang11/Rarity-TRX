@@ -7,7 +7,7 @@
     </div>
     <p class="kaishi" style="text-align:center;color:#fff">
       <span>
-        <a href="#createBox">立即开 始</a>
+        <a href="#createBox"> 立 即 开 始</a>
       </span>
     </p>
     <p style="text-align:center;color:#fff">郑重说明：Rarity TRX绝对不会存储你的任何信息，代码中没有任何网络请求,完全本地生成，可以断网生成</p>
