@@ -3,7 +3,7 @@
   <div class="content">
     <div class="logo">
       <span>Rarity TRX</span>
-      <p>波场靓号生成器</p>
+      <p>波场靓号 生成器</p>
     </div>
     <p class="kaishi" style="text-align:center;color:#fff">
       <span>
